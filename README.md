@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dasoveanu-Teodora
 - 👀 I’m interested in automations, artificial inteligence, web-desktop-mobile application, SQL/NO-SQL
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, SQL
 - 📫 How to reach me  dasoveanu.teodora@gmail.com
 
 <!---
